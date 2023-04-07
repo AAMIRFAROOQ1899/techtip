@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Devops | Techtip Web Design Services</title>
+	<atom:link href="/category/devops/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Web Design in Srinagar</description>
+	<lastBuildDate>Mon, 20 Mar 2023 08:43:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">202794536</site>	<item>
+		<title>An A-Z Index of the Linux command line</title>
+		<link>/devops/an-a-z-index-of-the-linux-command-line/</link>
+					<comments>/devops/an-a-z-index-of-the-linux-command-line/#respond</comments>
+		
+		<dc:creator><![CDATA[Aamir Farooq]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 08:43:55 +0000</pubDate>
+				<category><![CDATA[Devops]]></category>
+		<guid isPermaLink="false">/?p=3854</guid>
+
+					<description><![CDATA[A &#38; Start a new process in the background alias Create an alias • apropos Search Help manual pages (man -k) apt Search for and install software packages (Debian/Ubuntu) apt-get Search for and install software packages (Debian/Ubuntu) aptitude Search for and install software packages (Debian/Ubuntu) aspell Spell Checker at Schedule a command to run once [&#8230;]]]></description>
+										<content:encoded><![CDATA[<table class="az aligncenter">
+<tbody>
+<tr>
+<td><strong>A</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bg.html">&amp;</a></strong></td>
+<td><strong>Start a new process in the background</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/alias.html">alias</a></strong></td>
+<td><strong>Create an alias •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/apropos.html">apropos</a></strong></td>
+<td><strong>Search Help manual pages (man -k)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/apt.html">apt</a></strong></td>
+<td><strong>Search for and install software packages (Debian/Ubuntu)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/apt-get.html">apt-get</a></strong></td>
+<td><strong>Search for and install software packages (Debian/Ubuntu)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/aptitude.html">aptitude</a></strong></td>
+<td><strong>Search for and install software packages (Debian/Ubuntu)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/aspell.html">aspell</a></strong></td>
+<td><strong>Spell Checker</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/at.html">at</a></strong></td>
+<td><strong>Schedule a command to run once at a particular time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/awk.html">awk</a></strong></td>
+<td><strong>Find and Replace text, database sort/validate/index</strong></td>
+</tr>
+<tr>
+<td><strong><a id="b"></a>B</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/basename.html">basename</a></strong></td>
+<td><strong>Strip directory and suffix from filenames</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/base32.html">base32</a></strong></td>
+<td><strong>Base32 encode/decode data and print to standard output</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/base64.html">base64</a></strong></td>
+<td><strong>Base64 encode/decode data and print to standard output</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bash.html">bash</a></strong></td>
+<td><strong>GNU Bourne-Again SHell</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bc.html">bc</a></strong></td>
+<td><strong>Arbitrary precision calculator language</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bg.html">bg</a></strong></td>
+<td><strong>Send to background</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bind.html">bind</a></strong></td>
+<td><strong>Set or display readline key and function bindings •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/break.html">break</a></strong></td>
+<td><strong>Exit from a loop •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/builtin.html">builtin</a></strong></td>
+<td><strong>Run a shell builtin</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bzip2.html">bzip2</a></strong></td>
+<td><strong>Compress or decompress named file(s)</strong></td>
+</tr>
+<tr>
+<td><strong><a id="c"></a>C</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cal.html">cal</a></strong></td>
+<td><strong>Display a calendar</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/caller.html">caller</a></strong></td>
+<td><strong>Return the context of any active subroutine call •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/case.html">case</a></strong></td>
+<td><strong>Conditionally perform a command</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cat.html">cat</a></strong></td>
+<td><strong>Concatenate and print (display) the content of files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cd.html">cd</a></strong></td>
+<td><strong>Change Directory</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cfdisk.html">cfdisk</a></strong></td>
+<td><strong>Partition table manipulator for Linux</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chattr.html">chattr</a></strong></td>
+<td><strong>Change file attributes on a Linux file system</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chgrp.html">chgrp</a></strong></td>
+<td><strong>Change group ownership</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chmod.html">chmod</a></strong></td>
+<td><strong>Change access permissions</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chown.html">chown</a></strong></td>
+<td><strong>Change file owner and group</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chpasswd.html">chpasswd</a></strong></td>
+<td><strong>Update passwords in batch mode</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chroot.html">chroot</a></strong></td>
+<td><strong>Run a command with a different root directory</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/chkconfig.html">chkconfig</a></strong></td>
+<td><strong>System services (runlevel)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cksum.html">cksum</a></strong></td>
+<td><strong>Print CRC checksum and byte counts</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>clear</strong></td>
+<td><strong>Clear terminal screen</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cmp.html">cmp</a></strong></td>
+<td><strong>Compare two files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/comm.html">comm</a></strong></td>
+<td><strong>Compare two sorted files line by line</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/command.html">command</a></strong></td>
+<td><strong>Run a command &#8211; ignoring shell functions •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/continue.html">continue</a></strong></td>
+<td><strong>Resume the next iteration of a loop •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cp.html">cp</a></strong></td>
+<td><strong>Copy one or more files to another location</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cpio.html">cpio</a></strong></td>
+<td><strong>Copy files to and from archives</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cron.html">cron</a></strong></td>
+<td><strong>Daemon to execute scheduled commands</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/crontab.html">crontab</a></strong></td>
+<td><strong>Schedule a command to run at a later time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/csplit.html">csplit</a></strong></td>
+<td><strong>Split a file into context-determined pieces</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/curl.html">curl</a></strong></td>
+<td><strong>Transfer data from or to a server</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/cut.html">cut</a></strong></td>
+<td><strong>Divide a file into several parts</strong></td>
+</tr>
+<tr>
+<td><strong><a id="d"></a>D</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/date.html">date</a></strong></td>
+<td><strong>Display or change the date &amp; time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dc.html">dc</a></strong></td>
+<td><strong>Desk Calculator</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dd.html">dd</a></strong></td>
+<td><strong>Data Duplicator &#8211; convert and copy a file, write disk headers, boot records</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ddrescue.html">ddrescue</a></strong></td>
+<td><strong>Data recovery tool</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/declare.html">declare</a></strong></td>
+<td><strong>Declare variables and give them attributes •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/df.html">df</a></strong></td>
+<td><strong>Display free disk space</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/diff.html">diff</a></strong></td>
+<td><strong>Display the differences between two files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/diff3.html">diff3</a></strong></td>
+<td><strong>Show differences among three files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dig.html">dig</a></strong></td>
+<td><strong>DNS lookup</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dir.html">dir</a></strong></td>
+<td><strong>Briefly list directory contents</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dircolors.html">dircolors</a></strong></td>
+<td><strong>Colour setup for &#8216;ls&#8217;</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dirname.html">dirname</a></strong></td>
+<td><strong>Convert a full pathname to just a path</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dirs.html">dirs</a></strong></td>
+<td><strong>Display list of remembered directories</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dos2unix.html">dos2unix</a></strong></td>
+<td><strong>Windows/MAC to UNIX text file format converter</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dmesg.html">dmesg</a></strong></td>
+<td><strong>Print kernel &amp; driver messages</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/dpkg.html">dpkg</a></strong></td>
+<td><strong>Package manager (Debian/Ubuntu).</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/du.html">du</a></strong></td>
+<td><strong>Estimate file space usage</strong></td>
+</tr>
+<tr>
+<td><strong><a id="e"></a>E</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/echo.html">echo</a></strong></td>
+<td><strong>Display message on screen •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/egrep.html">egrep</a></strong></td>
+<td><strong>Search file(s) for lines that match an extended expression</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/eject.html">eject</a></strong></td>
+<td><strong>Eject removable media</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/enable.html">enable</a></strong></td>
+<td><strong>Enable and disable builtin shell commands •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/env.html">env</a></strong></td>
+<td><strong>Environment variables</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>ethtool</strong></td>
+<td><strong>Ethernet card settings</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/eval.html">eval</a></strong></td>
+<td><strong>Evaluate several commands/arguments</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/exec.html">exec</a></strong></td>
+<td><strong>Execute a command</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/exit.html">exit</a></strong></td>
+<td><strong>Exit the shell</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/expand.html">expand</a></strong></td>
+<td><strong>Convert tabs to spaces</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/export.html">export</a></strong></td>
+<td><strong>Set an environment variable</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/expr.html">expr</a></strong></td>
+<td><strong>Evaluate expressions</strong></td>
+</tr>
+<tr>
+<td><strong><a id="f"></a>F</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/false.html">false</a></strong></td>
+<td><strong>Do nothing, unsuccessfully</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fdformat.html">fdformat</a></strong></td>
+<td><strong>Low-level format a floppy disk</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fdisk.html">fdisk</a></strong></td>
+<td><strong>Partition table manipulator for Linux</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fg.html">fg</a></strong></td>
+<td><strong>Send job to foreground</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fgrep.html">fgrep</a></strong></td>
+<td><strong>Search file(s) for lines that match a fixed string</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/file.html">file</a></strong></td>
+<td><strong>Determine file type</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/find.html">find</a></strong></td>
+<td><strong>Search for files that meet a desired criteria</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fmt.html">fmt</a></strong></td>
+<td><strong>Reformat paragraph text</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fold.html">fold</a></strong></td>
+<td><strong>Wrap text to fit a specified width</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/for.html">for</a></strong></td>
+<td><strong>Expand <i>words</i>, and execute <i>commands</i></strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>format</strong></td>
+<td><strong>Format disks or tapes</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>free</strong></td>
+<td><strong>Display memory usage</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fsck.html">fsck</a></strong></td>
+<td><strong>File system consistency check and repair</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ftp.html">ftp</a></strong></td>
+<td><strong>File Transfer Protocol</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/function.html">function</a></strong></td>
+<td><strong>Define Function Macros</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/fuser.html">fuser</a></strong></td>
+<td><strong>Identify/kill the process that is accessing a file</strong></td>
+</tr>
+<tr>
+<td><strong><a id="g"></a>G</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/awk.html">gawk</a></strong></td>
+<td><strong>Find and Replace text within file(s)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/getopts.html">getopts</a></strong></td>
+<td><strong>Parse positional parameters</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/getfacl.html">getfacl</a></strong></td>
+<td><strong>Get file access control lists</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/grep.html">grep</a></strong></td>
+<td><strong>Search file(s) for lines that match a given pattern</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/groupadd.html">groupadd</a></strong></td>
+<td><strong>Add a user security group</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/groupdel.html">groupdel</a></strong></td>
+<td><strong>Delete a group</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/groupmod.html">groupmod</a></strong></td>
+<td><strong>Modify a group</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/groups.html">groups</a></strong></td>
+<td><strong>Print group names a user is in</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/gzip.html">gzip</a></strong></td>
+<td><strong>Compress or decompress named file(s)</strong></td>
+</tr>
+<tr>
+<td><strong><a id="h"></a>H</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/hash.html">hash</a></strong></td>
+<td><strong>Remember the full pathname of a name argument</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/head.html">head</a></strong></td>
+<td><strong>Output the first part of file(s)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>help</strong></td>
+<td><strong>Display help for a built-in command •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/history.html">history</a></strong></td>
+<td><strong>Command History</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/hostname.html">hostname</a></strong></td>
+<td><strong>Print or set system name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/htop.html">htop</a></strong></td>
+<td><strong>Interactive process viewer</strong></td>
+</tr>
+<tr>
+<td><strong><a id="i"></a>I</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/iconv.html">iconv</a></strong></td>
+<td><strong>Convert the character set of a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/id.html">id</a></strong></td>
+<td><strong>Print user and group id&#8217;s</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/if.html">if</a></strong></td>
+<td><strong>Conditionally perform a command</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ifconfig.html">ifconfig</a></strong></td>
+<td><strong>Configure a network interface</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ifup.html">ifdown</a></strong></td>
+<td><strong>Stop a network interface</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ifup.html">ifup</a></strong></td>
+<td><strong>Start a network interface up</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/import.html">import</a></strong></td>
+<td><strong>Capture an X server screen and save the image to file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/install.html">install</a></strong></td>
+<td><strong>Copy files and set attributes</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/iostat.html">iostat</a></strong></td>
+<td><strong>Report CPU and i/o statistics</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ip.html">ip</a></strong></td>
+<td><strong>Routing, devices and tunnels</strong></td>
+</tr>
+<tr>
+<td><strong><a id="j"></a>J</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/jobs.html">jobs</a></strong></td>
+<td><strong>List active jobs •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/join.html">join</a></strong></td>
+<td><strong>Join lines on a common field</strong></td>
+</tr>
+<tr>
+<td><strong><a id="k"></a>K</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/kill.html">kill</a></strong></td>
+<td><strong>Kill a process by specifying its PID</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/killall.html">killall</a></strong></td>
+<td><strong>Kill processes by name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/klist.html">klist</a></strong></td>
+<td><strong>List cached Kerberos tickets</strong></td>
+</tr>
+<tr>
+<td><strong><a id="l"></a>L</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/less.html">less</a></strong></td>
+<td><strong>Display output one screen at a time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/let.html">let</a></strong></td>
+<td><strong>Perform arithmetic on shell variables •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/link.html">link</a></strong></td>
+<td><strong>Create a link to a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ln.html">ln</a></strong></td>
+<td><strong>Create a symbolic link to a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/local.html">local</a></strong></td>
+<td><strong>Create a function variable •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/locate.html">locate</a></strong></td>
+<td><strong>Find files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/logname.html">logname</a></strong></td>
+<td><strong>Print current login name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/logout.html">logout</a></strong></td>
+<td><strong>Exit a login shell •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/look.html">look</a></strong></td>
+<td><strong>Display lines beginning with a given string</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lpc.html">lpc</a></strong></td>
+<td><strong>Line printer control program</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lpr.html">lpr</a></strong></td>
+<td><strong>Print files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>lprint</strong></td>
+<td><strong>Print a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>lprintd</strong></td>
+<td><strong>Delete a print job</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>lprintq</strong></td>
+<td><strong>List the print queue</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lprm.html">lprm</a></strong></td>
+<td><strong>Remove jobs from the print queue</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lsattr.html">lsattr</a></strong></td>
+<td><strong>List file attributes on a Linux second extended file system</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lsblk.html">lsblk</a></strong></td>
+<td><strong>List block devices</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ls.html">ls</a></strong></td>
+<td><strong>List information about file(s)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lsof.html">lsof</a></strong></td>
+<td><strong>List open files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/lspci.html">lspci</a></strong></td>
+<td><strong>List all PCI devices</strong></td>
+</tr>
+<tr>
+<td><strong><a id="m"></a>M</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>make</strong></td>
+<td><strong>Recompile a group of programs</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/man.html">man</a></strong></td>
+<td><strong>Help manual</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mapfile.html">mapfile</a></strong></td>
+<td><strong>Read lines from standard input into an indexed array variable •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mkdir.html">mkdir</a></strong></td>
+<td><strong>Create new folder(s)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mkfifo.html">mkfifo</a></strong></td>
+<td><strong>Make FIFOs (named pipes)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mkfile.html">mkfile</a></strong></td>
+<td><strong>Make a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>mkisofs</strong></td>
+<td><strong>Create a hybrid ISO9660/JOLIET/HFS filesystem</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mknod.html">mknod</a></strong></td>
+<td><strong>Make block or character special files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mktemp.html">mktemp</a></strong></td>
+<td><strong>Make a temporary file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/more.html">more</a></strong></td>
+<td><strong>Display output one screen at a time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/most.html">most</a></strong></td>
+<td><strong>Browse or page through a text file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mount.html">mount</a></strong></td>
+<td><strong>Mount a file system</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mtools.html">mtools</a></strong></td>
+<td><strong>Manipulate MS-DOS files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mtr.html">mtr</a></strong></td>
+<td><strong>Network diagnostics (traceroute/ping)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mv.html">mv</a></strong></td>
+<td><strong>Move or rename files or directories</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mmv.html">mmv</a></strong></td>
+<td><strong>Mass Move and rename (files)</strong></td>
+</tr>
+<tr>
+<td><strong><a id="n"></a>N</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/nc.html">nc</a></strong></td>
+<td><strong>Netcat, read and write data across networks</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/netstat.html">netstat</a></strong></td>
+<td><strong>Networking connections/stats</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/nft.html">nft</a></strong></td>
+<td><strong>nftables for packet filtering and classification</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/nice.html">nice</a></strong></td>
+<td><strong>Set the priority of a command or job</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/nl.html">nl</a></strong></td>
+<td><strong>Number lines and write files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/nohup.html">nohup</a></strong></td>
+<td><strong>Run a command immune to hangups</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/notify-send.html">notify-send</a></strong></td>
+<td><strong>Send desktop notifications</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/nslookup.html">nslookup</a></strong></td>
+<td><strong>Query Internet name servers interactively</strong></td>
+</tr>
+<tr>
+<td><strong><a id="o"></a>O</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/open.html">open</a></strong></td>
+<td><strong>Open a file in its default application</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/op.html">op</a></strong></td>
+<td><strong>Operator access</strong></td>
+</tr>
+<tr>
+<td><strong><a id="p"></a>P</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/passwd.html">passwd</a></strong></td>
+<td><strong>Modify a user password</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/paste.html">paste</a></strong></td>
+<td><strong>Merge lines of files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>pathchk</strong></td>
+<td><strong>Check file name portability</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/perf.html">Perf</a></strong></td>
+<td><strong>Performance analysis tools for Linux</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ping.html">ping</a></strong></td>
+<td><strong>Test a network connection</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/pkill.html">pgrep</a></strong></td>
+<td><strong>List processes by name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/pkill.html">pkill</a></strong></td>
+<td><strong>Kill processes by name</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/popd.html">popd</a></strong></td>
+<td><strong>Restore the previous value of the current directory</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/pr.html">pr</a></strong></td>
+<td><strong>Prepare files for printing</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>printcap</strong></td>
+<td><strong>Printer capability database</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/printenv.html">printenv</a></strong></td>
+<td><strong>Print environment variables</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/printf.html">printf</a></strong></td>
+<td><strong>Format and print data •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ps.html">ps</a></strong></td>
+<td><strong>Process status</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/pushd.html">pushd</a></strong></td>
+<td><strong>Save and then change the current directory</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/pv.html">pv</a></strong></td>
+<td><strong>Monitor the progress of data through a pipe</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/pwd.html">pwd</a></strong></td>
+<td><strong>Print Working Directory</strong></td>
+</tr>
+<tr>
+<td><strong><a id="q"></a>Q</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/quota.html">quota</a></strong></td>
+<td><strong>Display disk usage and limits</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/quotacheck.html">quotacheck</a></strong></td>
+<td><strong>Scan a file system for disk usage</strong></td>
+</tr>
+<tr>
+<td><strong><a id="r"></a>R</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ram.html">ram</a></strong></td>
+<td><strong>ram disk device</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rar.html">rar</a></strong></td>
+<td><strong>Archive files with compression</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rcp.html">rcp</a></strong></td>
+<td><strong>Copy files between two machines</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/read.html">read</a></strong></td>
+<td><strong>Read a line from standard input •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/mapfile.html">readarray</a></strong></td>
+<td><strong>Read from stdin into an array variable •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/readonly.html">readonly</a></strong></td>
+<td><strong>Mark variables/functions as readonly</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>reboot</strong></td>
+<td><strong>Reboot the system</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rename.html">rename</a></strong></td>
+<td><strong>Rename files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>renice</strong></td>
+<td><strong>Alter priority of running processes</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>remsync</strong></td>
+<td><strong>Synchronize remote files via email</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/return.html">return</a></strong></td>
+<td><strong>Exit a shell function</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rev.html">rev</a></strong></td>
+<td><strong>Reverse lines of a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rm.html">rm</a></strong></td>
+<td><strong>Remove files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rmdir.html">rmdir</a></strong></td>
+<td><strong>Remove folder(s)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rsync.html">rsync</a></strong></td>
+<td><strong>Remote file copy (Synchronize file trees)</strong></td>
+</tr>
+<tr>
+<td><strong><a id="s"></a>S</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/screen.html">screen</a></strong></td>
+<td><strong>Multiplex terminal, run remote shells via ssh</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/scp.html">scp</a></strong></td>
+<td><strong>Secure copy (remote file copy)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sdiff.html">sdiff</a></strong></td>
+<td><strong>Merge two files interactively</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sed.html">sed</a></strong></td>
+<td><strong>Stream Editor</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/select.html">select</a></strong></td>
+<td><strong>Accept user choices via keyboard input</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/seq.html">seq</a></strong></td>
+<td><strong>Print numeric sequences</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/set.html">set</a></strong></td>
+<td><strong>Manipulate shell variables and functions</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/setfacl.html">setfacl</a></strong></td>
+<td><strong>Set file access control lists.</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>sftp</strong></td>
+<td><strong>Secure File Transfer Program</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sha256sum.html">sha256sum</a></strong></td>
+<td><strong>Compute and check SHA256 (256-bit) checksums</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/shift.html">shift</a></strong></td>
+<td><strong>Shift positional parameters</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/shopt.html">shopt</a></strong></td>
+<td><strong>Shell Options</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/shuf.html">shuf</a></strong></td>
+<td><strong>Generate random permutations</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/shutdown.html">shutdown</a></strong></td>
+<td><strong>Shutdown or restart linux</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sleep.html">sleep</a></strong></td>
+<td><strong>Delay for a specified time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/slocate.html">slocate</a></strong></td>
+<td><strong>Find files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sort.html">sort</a></strong></td>
+<td><strong>Sort text files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/source.html">source</a></strong></td>
+<td><strong>Run commands from a file &#8216;.&#8217;  •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/split.html">split</a></strong></td>
+<td><strong>Split a file into fixed-size pieces</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ss.html">ss</a></strong></td>
+<td><strong>Socket Statistics</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ssh.html">ssh</a></strong></td>
+<td><strong>Secure Shell client (remote login program)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/stat.html">stat</a></strong></td>
+<td><strong>Display file or file system status</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/strace.html">strace</a></strong></td>
+<td><strong>Trace system calls and signals</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/su.html">su</a></strong></td>
+<td><strong>Substitute user identity</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sudo.html">sudo</a></strong></td>
+<td><strong>Execute a command as another user</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sum.html">sum</a></strong></td>
+<td><strong>Print a checksum for a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/suspend.html">suspend</a></strong></td>
+<td><strong>Suspend execution of this shell •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/sync.html">sync</a></strong></td>
+<td><strong>Synchronize data on disk with memory</strong></td>
+</tr>
+<tr>
+<td><strong><a id="t"></a>T</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tail.html">tail</a></strong></td>
+<td><strong>Output the last part of a file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tar.html">tar</a></strong></td>
+<td><strong>Store, list or extract files in an archive</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tee.html">tee</a></strong></td>
+<td><strong>Redirect output to multiple files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/test.html">test</a></strong></td>
+<td><strong>Evaluate a conditional expression</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/time.html">time</a></strong></td>
+<td><strong>Measure Program running time</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/timeout.html">timeout</a></strong></td>
+<td><strong>Run a command with a time limit</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/times.html">times</a></strong></td>
+<td><strong>User and system times</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tmux.html">tmux</a></strong></td>
+<td><strong>Terminal multiplexer</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/touch.html">touch</a></strong></td>
+<td><strong>Change file timestamps</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/top.html">top</a></strong></td>
+<td><strong>List processes running on the system</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tput.html">tput</a></strong></td>
+<td><strong>Set terminal-dependent capabilities, color, position</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/traceroute.html">traceroute</a></strong></td>
+<td><strong>Trace Route to Host</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/trap.html">trap</a></strong></td>
+<td><strong>Execute a command when the shell receives a signal •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tr.html">tr</a></strong></td>
+<td><strong>Translate, squeeze, and/or delete characters</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/true.html">true</a></strong></td>
+<td><strong>Do nothing, successfully</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tsort.html">tsort</a></strong></td>
+<td><strong>Topological sort</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/tty.html">tty</a></strong></td>
+<td><strong>Print filename of terminal on stdin</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/type.html">type</a></strong></td>
+<td><strong>Describe a command •</strong></td>
+</tr>
+<tr>
+<td><strong><a id="u"></a>U</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/ulimit.html">ulimit</a></strong></td>
+<td><strong>Limit user resources •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/umask.html">umask</a></strong></td>
+<td><strong>Users file creation mask</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>umount</strong></td>
+<td><strong>Unmount a device</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/alias.html">unalias</a></strong></td>
+<td><strong>Remove an alias •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/uname.html">uname</a></strong></td>
+<td><strong>Print system information</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/unexpand.html">unexpand</a></strong></td>
+<td><strong>Convert spaces to tabs</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/uniq.html">uniq</a></strong></td>
+<td><strong>Uniquify files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/units.html">units</a></strong></td>
+<td><strong>Convert units from one scale to another</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/unix2dos.html">unix2dos</a></strong></td>
+<td><strong>UNIX to Windows or MAC text file format converter</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/unrar.html">unrar</a></strong></td>
+<td><strong>Extract files from a rar archive</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/unset.html">unset</a></strong></td>
+<td><strong>Remove variable or function names</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/unshar.html">unshar</a></strong></td>
+<td><strong>Unpack shell archive scripts</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/until.html">until</a></strong></td>
+<td><strong>Execute commands (until error)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>uptime</strong></td>
+<td><strong>Show uptime</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/useradd.html">useradd</a></strong></td>
+<td><strong>Create new user account</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/userdel.html">userdel</a></strong></td>
+<td><strong>Delete a user account</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/usermod.html">usermod</a></strong></td>
+<td><strong>Modify user account</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/users.html">users</a></strong></td>
+<td><strong>List users currently logged in</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/uuencode.html">uuencode</a></strong></td>
+<td><strong>Encode a binary file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/uuencode.html">uudecode</a></strong></td>
+<td><strong>Decode a file created by uuencode</strong></td>
+</tr>
+<tr>
+<td><strong><a id="v"></a>V</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>v</strong></td>
+<td><strong>Verbosely list directory contents (&#8216;ls -l -b&#8217;)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>vdir</strong></td>
+<td><strong>Verbosely list directory contents (&#8216;ls -l -b&#8217;)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/vi.html">vi</a></strong></td>
+<td><strong>Text Editor</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/vmstat.html">vmstat</a></strong></td>
+<td><strong>Report virtual memory statistics</strong></td>
+</tr>
+<tr>
+<td><strong><a id="w"></a>W</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/w.html">w</a></strong></td>
+<td><strong>Show who is logged on and what they are doing</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/wait.html">wait</a></strong></td>
+<td><strong>Wait for a process to complete •</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/watch.html">watch</a></strong></td>
+<td><strong>Execute/display a program periodically</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/wc.html">wc</a></strong></td>
+<td><strong>Print byte, word, and line counts</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/whereis.html">whereis</a></strong></td>
+<td><strong>Search the user&#8217;s $path, man pages and source files for a program</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/which.html">which</a></strong></td>
+<td><strong>Search the user&#8217;s $path for a program file</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/while.html">while</a></strong></td>
+<td><strong>Execute commands</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/who.html">who</a></strong></td>
+<td><strong>Print all usernames currently logged in</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/whoami.html">whoami</a></strong></td>
+<td><strong>Print the current user id and name (&#8216;id -un&#8217;)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>wget</strong></td>
+<td><strong>Retrieve web pages or files via HTTP, HTTPS or FTP</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/write.html">write</a></strong></td>
+<td><strong>Send a message to another user</strong></td>
+</tr>
+<tr>
+<td><strong><a id="x"></a>X<a id="y"></a><a id="z"></a></strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/xargs.html">xargs</a></strong></td>
+<td><strong>Execute utility, passing constructed argument list(s)</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/xdg-open.html">xdg-open</a></strong></td>
+<td><strong>Open a file or URL in the user&#8217;s preferred application.</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/xxd.html">xxd</a></strong></td>
+<td><strong>Make a hexdump or do the reverse</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/xz.html">xz</a></strong></td>
+<td><strong>Compress or decompress .xz and .lzma files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/yes.html">yes</a></strong></td>
+<td><strong>Print a string until interrupted</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/zip.html">zip</a></strong></td>
+<td><strong>Package and compress (archive) files</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/source.html">.</a></strong></td>
+<td><strong><a href="https://ss64.com/bash/source.html">Run</a> a command script in the current shell</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/bang.html">!!</a></strong></td>
+<td><strong>Run the <a href="https://ss64.com/bash/bang.html">last</a> command again</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong><a href="https://ss64.com/bash/rem.html">###</a></strong></td>
+<td><strong>Comment / <a href="https://ss64.com/bash/rem.html">Rem</a>ark</strong></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>/devops/an-a-z-index-of-the-linux-command-line/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3854</post-id>	</item>
+	</channel>
+</rss>

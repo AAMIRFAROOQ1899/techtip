@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized | Techtip Web Design Services</title>
+	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Web Design in Srinagar</description>
+	<lastBuildDate>Mon, 20 Mar 2023 08:50:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">202794536</site>	<item>
+		<title>Linux basic commands and git</title>
+		<link>/uncategorized/linuxbasic/</link>
+					<comments>/uncategorized/linuxbasic/#respond</comments>
+		
+		<dc:creator><![CDATA[Aamir Farooq]]></dc:creator>
+		<pubDate>Sat, 18 Mar 2023 15:39:51 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=3835</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_0  et_pb_text_align_left  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					<div class="et_pb_main_blurb_image"><span class="et_pb_image_wrap et_pb_only_image_mode_wrap"><img decoding="async" width="297" height="170" src="/wp-content/uploads/2023/03/download.png" alt="" class="et-waypoint et_pb_animation_top et_pb_animation_top_tablet et_pb_animation_top_phone wp-image-3848" /></span></div>
+					<div class="et_pb_blurb_container">
+						<h1 class="et_pb_module_header"><span>Linux & Git commands Cheat sheet</span></h1>
+						<div class="et_pb_blurb_description"><h1 class="permalink-heading"></h1>
+<h1 class="permalink-heading"></h1>
+<h1 id="heading-linux" class="permalink-heading">Linux</h1>
+<blockquote>
+<p><strong>ls — The most frequently used command in Linux to list directories</strong></p>
+<p><strong>pwd — Print working directory command in Linux</strong></p>
+<p><strong>cd — Linux command to navigate through directories</strong></p>
+<p><strong>mkdir — Command used to create directories in Linux</strong></p>
+<p><strong>mv — Move or rename files in Linux</strong></p>
+<p><strong>cp — Similar usage as mv but for copying files in Linux</strong></p>
+<p><strong>rm — Delete files or directories</strong></p>
+<p><strong>touch — Create blank/empty files</strong></p>
+<p><strong>ssh — Secure Shell command in Linux</strong></p>
+<p><strong>service — Linux command to start and stop services</strong></p>
+<p><strong>ln — Create symbolic links (shortcuts) to other files</strong></p>
+<p><strong>cat — Display file contents on the terminal</strong></p>
+<p><strong>clear — Clear the terminal display</strong></p>
+<p><strong>echo — Print any text that follows the command</strong></p>
+<p><strong>less — Linux command to display paged outputs in the terminal</strong></p>
+<p><strong>ps — Display active processes</strong></p>
+<p><strong>kill and killall — Kill active processes by process ID or name</strong></p>
+<p><strong>df — Display disk filesystem information</strong></p>
+<p><strong>mount — Mount file systems in Linux</strong></p>
+<p><strong>chmod — Command to change file permissions</strong></p>
+<p><strong>chown — Command for granting ownership of files or folders</strong></p>
+<p><strong>ifconfig — Display network interfaces and IP addresses</strong></p>
+<p><strong>traceroute — Trace all the network hops to reach the destination</strong></p>
+<p><strong>wget — Direct download files from the internet</strong></p>
+<p><strong>ufw — Firewall command</strong></p>
+<p><strong>iptables — Base firewall for all other firewall utilities to interface with</strong></p>
+<p><strong>apt, pacman, yum, rpm — Package managers depending on the distro</strong></p>
+<p><strong>sudo — Command to escalate privileges in Linux</strong></p>
+<p><strong>cal — View a command-line calendar</strong></p>
+<p><strong>alias — Create custom shortcuts for your regularly used commands</strong></p>
+<p><strong>dd — Majorly used for creating bootable USB sticks</strong></p>
+<p><strong>whereis — Locate the binary, source, and manual pages for a command</strong></p>
+<p><strong>whatis — Find what a command is used for</strong></p>
+<p><strong>top — View active processes live with their system usage</strong></p>
+<p><strong>useradd and usermod — Add new user or change existing users data</strong></p>
+<p><strong>passwd — Create or update passwords for existing users</strong></p>
+<p><strong>man — Access manual pages for all Linux commands</strong></p>
+<p><strong>uname — Linux command to get basic information about the OS</strong></p>
+<p><strong>whoami — Get the active username</strong></p>
+<p><strong>tar — Command to extract and compress files in Linux</strong></p>
+<p><strong>grep — Search for a string within an output</strong></p>
+<p><strong>head — Return the specified number of lines from the top</strong></p>
+<p><strong>tail — Return the specified number of lines from the bottom</strong></p>
+<p><strong>diff — Find the difference between two files</strong></p>
+<p><strong>cmp — Allows you to check if two files are identical</strong></p>
+<p><strong>comm — Combines the functionality of diff and cmp</strong></p>
+<p><strong>sort — Linux command to sort the content of a file while outputting</strong></p>
+<p><strong>export — Export environment variables in Linux</strong></p>
+<p><strong>zip — Zip files in Linux</strong></p>
+<p><strong>unzip — Unzip files in Linux</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>GIT </strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong></strong></p>
+<p><strong>STAGE &amp; SNAPSHOT:- Working with snapshots and the Git staging area</strong></p>
+</blockquote>
+<p><code>git status :- show modified files in working directory, staged for your next commit git add :- add a file as it looks now to your next commit (stage) git reset :-unstage a file while retaining the changes in working directory git diff:- diff of what is changed but not staged git diff — staged:- diff of what is staged but not yet committed git commit -m “[descriptive message]”:-commit your staged content as a new commit snapshot</code></p>
+<p><strong>SETUP</strong></p>
+<p><strong>Configuring user information used across all local repositories</strong></p>
+<p><code>git config — global</code><span> </span><a target="_blank" href="http://user.name/" rel="noopener"><code>user.name</code></a><span> </span><code>“[firstname lastname]” set a name that is identifiable for credit when review version history git config — global</code><span> </span><a target="_blank" href="http://user.email/" rel="noopener"><code>user.email</code></a><span> </span><code>“[valid-email]” set an email address that will be associated with each history marker git config — global color.ui auto set automatic command line coloring for Git for easy reviewing</code></p>
+<p><strong>BRANCH &amp; MERGE</strong></p>
+<p><strong>Isolating work in branches, changing context, and integrating changes</strong></p>
+<p><code>git branch list your branches. a * will appear next to the currently active branch git branch [branch-name] create a new branch at the current commit git checkout switch to another branch and check it out into your working directory git merge [branch] merge the specified branch’s history into the current one git log show all commits in the current branch’s history</code></p>
+<p><strong>SETUP &amp; INIT<br />Configuring user information, initializing and cloning repositories<br />git init<br />initialize an existing directory as a Git repository<br />git clone [url]<br />retrieve an entire repository from a hosted location via URL</strong></p>
+<p>Happy Learning:))</p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/uncategorized/linuxbasic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">3835</post-id>	</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/uncategorized/hello-world/</link>
+					<comments>/uncategorized/hello-world/#respond</comments>
+		
+		<dc:creator><![CDATA[Aamir Farooq]]></dc:creator>
+		<pubDate>Tue, 22 Feb 2022 05:51:44 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/uncategorized/hello-world/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>
